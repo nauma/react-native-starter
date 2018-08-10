@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\romka\.android\build-cache\57eb0d8e8fdf04acc74db0468fa310fc8dff4e2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Coding\Job\AwesomeApp\android\app\build\intermediates\pre-dexed\debug\classes_025474e2e702fdaf61d0ef053e501f54b1379cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\romka\.android\build-cache\57eb0d8e8fdf04acc74db0468fa310fc8dff4e2b\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Coding\Job\AwesomeApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_2f3296eadae1431ab712d026a7a2ddebdf6a768b.jar" />
+    </item>
+
+</items>
